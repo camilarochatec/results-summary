@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Reação",
+    "score": 80,
+    "icon": "src/assets/icon-reaction.svg"
+  },
+  {
+    "category": "Memória",
+    "score": 92,
+    "icon": "src/assets/icon-memory.svg"
+  },
+  {
+    "category": "Habilidade Verbal",
+    "score": 61,
+    "icon": "src/assets/icon-verbal.svg"
+  },
+  {
+    "category": "Visual",
+    "score": 72,
+    "icon": "src/assets/icon-visual.svg"
+  }
+]
