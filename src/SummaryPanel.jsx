@@ -1,4 +1,5 @@
 import SummaryItem from "./SummaryItem"; 
+import data from "./data.json"; 
 import reactionIcon from './assets/icon-reaction.svg'; 
 import memoryIcon from './assets/icon-memory.svg';
 import verbalIcon from './assets/icon-verbal.svg';

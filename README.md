@@ -1,6 +1,6 @@
 # Results Summary Component | Frontend Mentor Challenge
 
-### 🔗 **[Clique aqui para ver a demonstração ao vivo na Vercel!](https://SEU-PROJETO-AQUI.vercel.app)**
+### 🔗 **[Clique aqui para ver a demonstração ao vivo na Vercel!](https://results-summary-ashy-beta.vercel.app/)**
 
 Este projeto é uma implementação do desafio ["Results Summary Component" do Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV), construído com uma stack moderna de front-end para demonstrar competências essenciais em desenvolvimento de interfaces.
 
