@@ -2,21 +2,25 @@
   {
     "category": "Reação",
     "score": 80,
-    "icon": "src/assets/icon-reaction.svg"
+    "icon": "reaction",
+    "color": "red"
   },
   {
     "category": "Memória",
     "score": 92,
-    "icon": "src/assets/icon-memory.svg"
+    "icon": "memory",
+    "color": "yellow"
   },
   {
     "category": "Habilidade Verbal",
     "score": 61,
-    "icon": "src/assets/icon-verbal.svg"
+    "icon": "verbal",
+    "color": "green"
   },
   {
     "category": "Visual",
     "score": 72,
-    "icon": "src/assets/icon-visual.svg"
+    "icon": "visual",
+    "color": "blue"
   }
 ]
